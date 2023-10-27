@@ -8,14 +8,14 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.mjs
-    siteTitle: `Jodie`,
-    siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
-    siteHeadline: `Jodie - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://jodie.lekoarts.de`,
-    siteDescription: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
+    siteTitle: `rock4mel`,
+    siteTitleAlt: `Rock4Mel - Technology`,
+    siteHeadline: `Rock4Mel - Technology`,
+    siteUrl: `https://rock4mel.com`,
+    siteDescription: `En Rock4Mel, fusionamos la innovación tecnológica con el poder de la conexión personal. Descubre soluciones tech auténticas y emocionalmente resonantes, diseñadas para mejorar tu vida diaria. Desde Mallorca, celebramos la rica cultura local mientras creamos productos que marcan la diferencia. Únete a nosotros en el viaje hacia una tecnología con corazón y alma.`,
     siteImage: `/banner.jpg`,
-    siteLanguage: `en`,
-    author: `@lekoarts_de`,
+    siteLanguage: `es`,
+    author: `@rock4mel`,
   },
   trailingSlash: `always`,
   plugins: [
