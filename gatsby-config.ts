@@ -9,12 +9,12 @@ const config: GatsbyConfig = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.mjs
     siteTitle: `rock4mel`,
-    siteTitleAlt: `Rock4Mel - Technology`,
-    siteHeadline: `Rock4Mel - Technology`,
+    siteTitleAlt: `Rock4Mel - Technology - Maximization Efficiency Limitless`,
+    siteHeadline: `Rock4Mel - Aixo és mel`,
     siteUrl: `https://rock4mel.com`,
-    siteDescription: `En Rock4Mel, fusionamos la innovación tecnológica con el poder de la conexión personal. Descubre soluciones tech auténticas y emocionalmente resonantes, diseñadas para mejorar tu vida diaria. Desde Mallorca, celebramos la rica cultura local mientras creamos productos que marcan la diferencia. Únete a nosotros en el viaje hacia una tecnología con corazón y alma.`,
+    siteDescription: `We specialize in providing inspirational talks, personalized support, and expert advice as true technology specialists. We take pride in guiding our clients every step of the way on their digital journey, ensuring that every decision is solid and strategic.`,
     siteImage: `/banner.jpg`,
-    siteLanguage: `es`,
+    siteLanguage: `en`,
     author: `@rock4mel`,
   },
   trailingSlash: `always`,
@@ -24,8 +24,8 @@ const config: GatsbyConfig = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          { name: `Projects`, slug: `/projects` },
-          { name: `Art`, slug: `/art` },
+          //{ name: `Projects`, slug: `/projects` },
+         // { name: `Art`, slug: `/art` },
           { name: `About`, slug: `/about` },
         ],
       },
