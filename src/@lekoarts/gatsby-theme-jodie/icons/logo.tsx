@@ -9,34 +9,6 @@ const Logo = () => (
    preserveAspectRatio="xMidYMid meet"
    version="1.0"
    id="svg56"
-   sodipodi:docname="Logo2.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   inkscape:export-filename="Logo2.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview56"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.61"
-     inkscape:cx="369.87578"
-     inkscape:cy="256.21118"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg56"
-     inkscape:export-bgcolor="#ffffff3f" />
   <defs
      id="defs1">
     <g
