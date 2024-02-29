@@ -2,15 +2,12 @@ import * as React from "react"
 
 const Logo = () => (
   <svg
-   width="500"
+   width="250"
    zoomAndPan="magnify"
    viewBox="0 0 375 374.99999"
-   height="500"
-   preserveAspectRatio="xMidYMid"
+   height="250"
+   preserveAspectRatio="xMidYMid meet"
    version="1.0"
-   id="svg56"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
   <path
