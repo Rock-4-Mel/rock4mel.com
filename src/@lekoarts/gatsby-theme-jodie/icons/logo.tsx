@@ -1,15 +1,8 @@
 import * as React from "react"
 
 const Logo = () => (
-  <svg
-   width="250"
-   zoomAndPan="magnify"
-   viewBox="0 0 375 374.99999"
-   height="250"
-   preserveAspectRatio="xMidYMid meet"
-   version="1.0"
-  <defs
-     id="defs1" />
+  <svg width="250" zoomAndPan="magnify" viewBox="0 0 375 374.99999" height="250" preserveAspectRatio="xMidYMid meet" version="1.0">
+  <defs><g/></defs>
   <path
      stroke-linecap="butt"
      fill="none"
