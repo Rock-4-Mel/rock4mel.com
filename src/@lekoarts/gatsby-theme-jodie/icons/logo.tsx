@@ -4,16 +4,15 @@ const Logo = () => (
   <svg
    width="500"
    zoomAndPan="magnify"
-   viewBox="0 0 375 374.999991"
+   viewBox="0 0 375 374.99999"
    height="500"
-   preserveAspectRatio="xMidYMid meet"
+   preserveAspectRatio="xMidYMid"
    version="1.0"
    id="svg56"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1">
-    <g
-       id="g1" />
-  </defs>
+     id="defs1" />
   <path
      stroke-linecap="butt"
      fill="none"
@@ -230,39 +229,6 @@ const Logo = () => (
            d="M 24.125,0 13.546875,-34.453125 H 13.28125 c 0.375,7.011719 0.5625,11.6875 0.5625,14.03125 V 0 h -8.3125 v -43.90625 h 12.671875 l 10.390625,33.578125 h 0.1875 L 39.796875,-43.90625 H 52.46875 V 0 h -8.671875 v -20.78125 c 0,-0.976562 0.01563,-2.109375 0.04687,-3.390625 0.03125,-1.289063 0.164062,-4.695313 0.40625,-10.21875 H 43.96875 L 32.65625,0 Z m 0,0"
            id="path38" />
       </g>
-    </g>
-  </g>
-  <g
-     fill="#333333"
-     fill-opacity="1"
-     id="g44">
-    <g
-       transform="translate(300.981926, 119.732552)"
-       id="g43">
-      <g
-         id="g42" />
-    </g>
-  </g>
-  <g
-     fill="#333333"
-     fill-opacity="1"
-     id="g47">
-    <g
-       transform="translate(316.959516, 119.732552)"
-       id="g46">
-      <g
-         id="g45" />
-    </g>
-  </g>
-  <g
-     fill="#333333"
-     fill-opacity="1"
-     id="g50">
-    <g
-       transform="translate(332.937107, 119.732552)"
-       id="g49">
-      <g
-         id="g48" />
     </g>
   </g>
   <g
